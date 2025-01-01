@@ -126,14 +126,14 @@
     {
       "dependency": {
         "id": "rapidjson-macros",
-        "versionRange": "=2.0.0",
+        "versionRange": "=2.0.1",
         "additionalData": {
           "headersOnly": true,
-          "branchName": "version/v2_0_0",
+          "branchName": "version/v2_0_1",
           "cmake": false
         }
       },
-      "version": "2.0.0"
+      "version": "2.0.1"
     },
     {
       "dependency": {
